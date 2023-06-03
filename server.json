@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 3000,
+      "createdAt": "2023-03-21T22:17:35.995Z"
+    },
+    {
+      "id": 2,
+      "description": "Subway",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 35,
+      "createdAt": "2023-03-22T22:17:35.995Z"
+    },
+    {
+      "description": "Teste",
+      "price": 1000,
+      "category": "Teste",
+      "type": "outcome",
+      "createdAt": "2023-03-24T20:30:25.506Z",
+      "id": 3
+    }
+  ]
+}
